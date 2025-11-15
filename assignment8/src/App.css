@@ -1,0 +1,26 @@
+.choices {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;   
+  margin-top: 20px;
+}
+
+.choices img {
+  width: 120px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.choices img:hover {
+  transform: scale(1.1);
+}
+
+.selected {
+  border: 3px solid #c77f3b;
+  border-radius: 10px;
+}
+.result{
+  color :#c77f3b;
+}
+
