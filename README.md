@@ -22,7 +22,5 @@ In order to run this project locally, simply fork and clone the repository or do
    ```python
     http://localhost:5173/
    ```
-Link of Demo video 
-     ```python
+Link of Demo video: 
     https://uncg-my.sharepoint.com/:v:/g/personal/a_khanal_uncg_edu/IQA4dh8tiw7uQa0UQFx6LG0dAZl3jejqazgvc2SVJn5KLDM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=roZHya
-   ```
